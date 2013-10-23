@@ -1,0 +1,1 @@
+Regex: [a-zA-Z][a-zA-Z0-9]*(.|_)([a-zA-Z0-9]|)([a-z]|[A-Z]|[0-9])*@(gmail.com|g.com|yahoo.com.br|meudomino.net|g1.com)
