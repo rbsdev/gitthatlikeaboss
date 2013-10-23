@@ -1,1 +1,0 @@
-Regex: (Cole aqui a sua regex)
